@@ -1,5 +1,3 @@
-Você pode colocar algo assim no README:
-
 ````markdown
 # Chip8 Assembler made with Python
 
